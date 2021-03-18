@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "todo": "tarea 1",
+      "author": "alfonso",
+      "done": false,
+      "id": 1
+    },
+    {
+      "todo": "tarea 2",
+      "author": "alfonso",
+      "done": true,
+      "id": 2
+    },
+    {
+      "todo": "tarea 4",
+      "author": "alfonso",
+      "done": false,
+      "id": 4
+    },
+    {
+      "todo": "tarea 5",
+      "author": "alfonso",
+      "done": true,
+      "id": 5
+    },
+    {
+      "todo": "tarea 6",
+      "author": "alfonso",
+      "done": false,
+      "id": 6
+    },
+    {
+      "todo": "tarea 8",
+      "author": "alfonso",
+      "done": true,
+      "id": 8
+    },
+    {
+      "todo": "tarea 9",
+      "author": "alfonso",
+      "done": false,
+      "id": 9
+    },
+    {
+      "todo": "tarea 10",
+      "author": "alfonso",
+      "done": false,
+      "id": 10
+    }
+  ]
+}
